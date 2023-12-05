@@ -1,0 +1,41 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\Administrator\\.ohos\\config\\auto_debug_AtguiguHealthy_com.example.atguiguhealthy_2850086000502114604.cer",
+          "storePassword": "0000001BB3E254D7C32A5BA34E0DDE938AC0FE1C197D1D4F65DB2B46691018B23C698FD8FBAD5E18B4D32C",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001BC48D15881C85DE63C75CCFE6F2D0841C89BA518882ADF9A2FD99187F8014A9069CCA7798609BA8",
+          "profile": "C:\\Users\\Administrator\\.ohos\\config\\auto_debug_AtguiguHealthy_com.example.atguiguhealthy_2850086000502114604.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\Administrator\\.ohos\\config\\auto_debug_AtguiguHealthy_com.example.atguiguhealthy_2850086000502114604.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

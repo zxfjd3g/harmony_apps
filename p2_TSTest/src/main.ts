@@ -1,0 +1,12 @@
+// import './01_基础类型'
+// import './02_条件与循环'
+// import './03_函数.ts'
+// import './04_类.ts'
+// import './05_接口.ts'
+// import './06_泛型'
+// import './07_模块'
+// import './08_声明文件'
+// import './09_装饰器'
+// import './09_装饰器2'
+
+document.body.innerHTML = 'Hello TS'

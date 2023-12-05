@@ -1,0 +1,15 @@
+// 应用级配置信息，包括签名、产品配置等
+{
+  "apiType": 'stageMode', // stage模式
+  "buildOption": {
+  },
+  "targets": [
+    {
+      "name": "default",
+      "runtimeOS": "HarmonyOS" // 运行系统为HarmonyOS
+    },
+    {
+      "name": "ohosTest",
+    }
+  ]
+}

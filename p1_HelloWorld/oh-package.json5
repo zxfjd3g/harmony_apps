@@ -1,0 +1,14 @@
+// 应用名称/版本/依赖等信息配置
+{
+  "name": "p1_helloworld",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@ohos/hypium": "1.0.6"
+  }
+}

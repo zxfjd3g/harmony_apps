@@ -1,0 +1,29 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+
+    {
+      "name": "mine_personal_data",
+      "value": "个人资料"
+    },
+    {
+      "name": "mine_check_updates",
+      "value": "检查更新"
+    },
+    {
+      "name": "mine_about",
+      "value": "关于"
+    }
+  ]
+}

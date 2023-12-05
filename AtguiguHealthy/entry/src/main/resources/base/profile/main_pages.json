@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Mine",
+    "pages/GroupPage",
+    "pages/WebPage"
+  ]
+}
